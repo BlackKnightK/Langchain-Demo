@@ -1,0 +1,67 @@
+{
+  "title": "Urban Trees Quiz",
+  "article_summary": "This article discusses the benefits of urban trees, including their role in cooling cities and the importance of proper planting and maintenance for their effectiveness.",
+  "overall_difficulty": "medium",
+  "questions": [
+    {
+      "question_type": "main_idea",
+      "question": "What is the main purpose of the article?",
+      "options": [
+        "To discuss the aesthetic value of urban trees",
+        "To explain the cooling effects of urban trees and the importance of their maintenance",
+        "To promote the planting of more trees in cities",
+        "To compare different species of trees"
+      ],
+      "answer": "To explain the cooling effects of urban trees and the importance of their maintenance",
+      "explanation": "The article primarily focuses on the benefits of urban trees in cooling cities and emphasizes the need for proper planting and maintenance.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "reading_comprehension",
+      "question": "What process do trees use to help cool the surrounding air?",
+      "options": [],
+      "answer": "Transpiration",
+      "explanation": "The article states that trees release water vapor through a process called transpiration, which helps cool the surrounding air.",
+      "difficulty": "easy"
+    },
+    {
+      "question_type": "vocabulary",
+      "question": "What does the term 'urban heat island effect' refer to in the context of the article?",
+      "options": [
+        "The cooling effect of trees in cities",
+        "The phenomenon where urban areas become warmer than their rural surroundings",
+        "The process of planting trees in urban areas",
+        "The aesthetic appeal of urban landscapes"
+      ],
+      "answer": "The phenomenon where urban areas become warmer than their rural surroundings",
+      "explanation": "The article describes the urban heat island effect as a result of roads and buildings absorbing solar energy and releasing it as heat in areas with little vegetation.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "inference",
+      "question": "Why might young trees be less beneficial than mature trees in urban areas?",
+      "options": [
+        "They are harder to plant",
+        "They provide less shade",
+        "They require more maintenance",
+        "They are more susceptible to pests"
+      ],
+      "answer": "They provide less shade",
+      "explanation": "The article mentions that young trees provide less shade than mature trees, which implies they are less beneficial in terms of cooling urban areas.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "vocabulary",
+      "question": "What does the term 'sustained public investment' imply in the context of urban forestry programs?",
+      "options": [
+        "Continuous funding and support for tree maintenance",
+        "One-time funding for tree planting",
+        "Investment in tree-related research",
+        "Public donations for tree planting initiatives"
+      ],
+      "answer": "Continuous funding and support for tree maintenance",
+      "explanation": "The article indicates that a successful urban forestry program requires ongoing financial support for maintenance, which is what 'sustained public investment' implies.",
+      "difficulty": "hard"
+    }
+  ]
+}

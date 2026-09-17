@@ -1,0 +1,72 @@
+{
+  "title": "Art of the Steal Quiz",
+  "article_summary": "This quiz covers the brazen heist at the Louvre Museum, where thieves stole valuable crown jewels in a matter of minutes, highlighting the challenges of museum security and the prevalence of art theft.",
+  "overall_difficulty": "medium",
+  "questions": [
+    {
+      "question_type": "reading_comprehension",
+      "question": "What items were stolen during the Louvre heist?",
+      "options": [
+        "Paintings by Vermeer and Rembrandt",
+        "Crown jewels including a necklace and tiara",
+        "Sculptures from ancient civilizations",
+        "Artifacts from the French Revolution"
+      ],
+      "answer": "Crown jewels including a necklace and tiara",
+      "explanation": "The stolen items included nine pieces of Napoleon and royal jewellery, specifically mentioned in the text.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "vocabulary",
+      "question": "What does the term 'brazen' in the context of the heist imply about the thieves' actions?",
+      "options": [
+        "Cautious and careful",
+        "Bold and shameless",
+        "Secretive and stealthy",
+        "Timid and fearful"
+      ],
+      "answer": "Bold and shameless",
+      "explanation": "'Brazen' indicates that the thieves acted in a bold and shameless manner during the heist.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "inference",
+      "question": "What can be inferred about the security measures at the Louvre based on the heist?",
+      "options": [
+        "They are highly effective and reliable",
+        "They need significant improvement",
+        "They are only effective during busy hours",
+        "They are designed to deter all types of theft"
+      ],
+      "answer": "They need significant improvement",
+      "explanation": "The text discusses serious questions about the museum's security and mentions delays in deploying modern security equipment.",
+      "difficulty": "hard"
+    },
+    {
+      "question_type": "main_idea",
+      "question": "What is the main idea of the article regarding museum thefts?",
+      "options": [
+        "Museum thefts are rare and easily solved",
+        "The Louvre is the most secure museum in the world",
+        "Museum thefts are common and pose challenges for security",
+        "Crown jewels are the least stolen items in museums"
+      ],
+      "answer": "Museum thefts are common and pose challenges for security",
+      "explanation": "The article discusses the prevalence of museum thefts and the difficulties in balancing security with visitor experience.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "reading_comprehension",
+      "question": "How did the thieves escape after the heist at the Louvre?",
+      "options": [
+        "They used a getaway car",
+        "They fled on foot",
+        "They escaped on scooters",
+        "They hid in the museum"
+      ],
+      "answer": "They escaped on scooters",
+      "explanation": "The text states that the thieves escaped on scooters after the heist.",
+      "difficulty": "easy"
+    }
+  ]
+}

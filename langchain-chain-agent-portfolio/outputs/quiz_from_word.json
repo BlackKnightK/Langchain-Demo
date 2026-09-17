@@ -1,0 +1,62 @@
+{
+  "title": "Quiz on the Louvre Heist",
+  "article_summary": "The quiz covers the brazen heist at the Louvre where thieves stole valuable jewellery, the implications for museum security, and the historical context of art theft.",
+  "overall_difficulty": "medium",
+  "questions": [
+    {
+      "question_type": "reading_comprehension",
+      "question": "What items were stolen during the Louvre heist?",
+      "options": [],
+      "answer": "Nine items of Napoleonic and royal jewellery.",
+      "explanation": "The source states that the thieves made off with nine items of jewellery, including an emerald-studded necklace and a tiara.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "vocabulary",
+      "question": "What does the word 'brazen' in the title imply about the heist?",
+      "options": [
+        "Cautious",
+        "Bold",
+        "Secretive",
+        "Unplanned"
+      ],
+      "answer": "Bold",
+      "explanation": "'Brazen' means bold and shameless, indicating the audacity of the thieves in executing the heist.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "inference",
+      "question": "What can be inferred about the security measures at the Louvre based on the heist?",
+      "options": [
+        "They are highly effective.",
+        "They need improvement.",
+        "They are non-existent.",
+        "They are outdated but sufficient."
+      ],
+      "answer": "They need improvement.",
+      "explanation": "The article discusses serious questions about the museum's security and mentions delays in deploying modern security equipment, indicating a need for improvement.",
+      "difficulty": "hard"
+    },
+    {
+      "question_type": "main_idea",
+      "question": "What is the main idea of the article?",
+      "options": [
+        "The history of the Louvre museum.",
+        "The impact of the heist on French culture.",
+        "The details of a recent art theft at the Louvre.",
+        "The value of the stolen items."
+      ],
+      "answer": "The details of a recent art theft at the Louvre.",
+      "explanation": "The article primarily focuses on the heist that occurred at the Louvre, detailing how it happened and its implications.",
+      "difficulty": "medium"
+    },
+    {
+      "question_type": "reading_comprehension",
+      "question": "How did President Emmanuel Macron describe the heist?",
+      "options": [],
+      "answer": "An attack on 'our history.'",
+      "explanation": "The source quotes President Macron referring to the heist as an attack on France's history, highlighting its significance.",
+      "difficulty": "easy"
+    }
+  ]
+}
